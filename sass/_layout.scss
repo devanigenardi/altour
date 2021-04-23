@@ -1,0 +1,203 @@
+body {
+    font-family: "BentonSansMedium";
+    font-size: 16px;
+    background-color: #ffffff;
+    .wrapper {
+        width: 100%;
+        max-width: 1024px;
+        margin: 0 auto;
+        .hero {
+            .header {
+                padding: 30px 50px;
+                img {
+                    max-width: 245px;
+                    width: 100%;
+                    height: auto;
+                    @media screen and (max-width: 767px) {
+                        margin: 0 auto;
+                        max-width: 200px;
+                    }
+                }
+            }
+            .banner {
+                border-top: 3px solid #268ac9;
+                position: relative;
+                background: #ffffff url("../images/altour-hero.jpg") no-repeat center bottom;
+                padding: 15px 20px 42px;
+                color: #ffffff;
+                display: flex;
+                justify-content: right;
+                flex-direction: column;
+                align-items: flex-end;
+                @media screen and (max-width: 414px) {
+                    align-items: center;
+                }
+                h1 {
+                    text-align: right;
+                    font-size: 46px;
+                    line-height: 48px;
+                    letter-spacing: -0.5px;
+                    margin-bottom: 219px;
+                    @media screen and (max-width: 767px) {
+                        margin-bottom: 25%;
+                        text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.5);
+                    }
+                    @media screen and (max-width: 414px) {
+                        font-size: 38px;
+                        line-height: 42px;
+                        text-align: center;
+                    }
+                }
+                img {
+                    max-width: 215px;
+                }
+            }
+        }
+        .content {
+            width: 100%;
+            padding: 107px 70px 121px;
+            @media screen and (max-width: 767px) {
+                padding: 50px 20px;
+            }
+            h2 {
+                color: #00175a;
+                text-align: center;
+                font-size: 38px;
+                line-height: 40px;
+                margin-bottom: 67px;
+                @media screen and (max-width: 414px) {
+                    font-size: 30px;
+                    line-height: 32px;
+                    margin-bottom: 50px;
+                }
+            }
+            ul {
+                list-style-type: none;
+            }
+            .main-list {
+                border-top: 5px solid #c6c8ca;
+                padding-top: 56px;
+                li {
+                    font-family: "BentonSansBold";
+                    font-size: 29px;
+                    line-height: 33px;
+                    padding-left: 70px;
+                    margin-bottom: 24px;
+                    padding: 10px 0 10px 70px;
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
+                    &.item-1 {
+                        background: url("../images/altour-icon-1.jpg") no-repeat left center;
+                    }
+                    &.item-2 {
+                        background: url("../images/altour-icon-2.jpg") no-repeat left center;
+                    }
+                    &.item-3 {
+                        background: url("../images/altour-icon-3.jpg") no-repeat left top;
+                    }
+                    span {
+                        font-family: "BentonSansRegular";
+                    }
+                    @media screen and (max-width: 767px) {
+                        padding: 70px 0 10px 0px;
+                        text-align: center;
+                        span {
+                            display: block;
+                            font-size: 22px;
+                            line-height: 24px;
+                        }
+                        &.item-1,
+                        &.item-2,
+                        &.item-3 {
+                            background-position: center top;
+                        }
+                    }
+                    @media screen and (max-width: 414px) {
+                        font-size: 20px;
+                        line-height: 22px;
+                    }
+                    .inner-list {
+                        margin-bottom: 55px;
+                        @media screen and (max-width: 414px) {
+                            margin-bottom: 40px;
+                        }
+                        li {
+                            font-family: "BentonSansRegular";
+                            margin: 0 0 2px 37px;
+                            position: relative;
+                            padding: 0 0 0 21px;
+                            &::before {
+                                content: '•';
+                                height: 100%;
+                                width: 3px;
+                                position: absolute;
+                                left: 0px;
+                                line-height: 35px;
+                                margin: 0;
+                                @media screen and (max-width: 767px) {
+                                    display: none;
+                                }
+                            }
+                            @media screen and (max-width: 767px) {
+                                margin: 0 0 10px 0px;
+                                padding: 0;
+                                font-size: 22px;
+                                line-height: 24px;
+                            }
+                            &:last-child {
+                                @media screen and (max-width: 767px) {
+                                    margin: 0;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            p {
+                font-size: 28px;
+                line-height: 34px;
+                font-family: "BentonSansMedium";
+                text-align: center;
+                color: #000000;
+                @media screen and (max-width: 414px) {
+                    font-size: 20px;
+                    line-height: 22px;
+                }
+            }
+        }
+        .footer {
+            color: #ffffff;
+            background-color: #00175a;
+            padding: 91px 46px;
+            @media screen and (max-width: 767px) {
+                padding: 50px 20px;
+            }
+            h2 {
+                font-size: 48px;
+                line-height: 61px;
+                text-align: center;
+                font-family: "BentonSansBold";
+                letter-spacing: 2px;
+                max-width: 680px;
+                margin: 0 auto 106px auto;
+                width: 100%;
+                @media screen and (max-width: 767px) {
+                    font-size: 30px;
+                    line-height: 32px;
+                    margin-bottom: 50px;
+                }
+            }
+            p {
+                font-family: "BentonSansRegular";
+                font-size: 18px;
+                line-height: 23px;
+                margin-bottom: 18px;
+                @media screen and (max-width: 414px) {
+                    font-size: 16px;
+                    line-height: 20px;
+                }
+            }
+        }
+    }
+}
