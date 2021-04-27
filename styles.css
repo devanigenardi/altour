@@ -119,17 +119,16 @@ body .wrapper .hero .header {
   padding: 30px 50px;
 }
 
-body .wrapper .hero .header img {
-  max-width: 245px;
-  width: 100%;
-  height: auto;
+@media screen and (max-width: 767px) {
+  body .wrapper .hero .header {
+    padding: 20px;
+  }
 }
 
-@media screen and (max-width: 767px) {
-  body .wrapper .hero .header img {
-    margin: 0 auto;
-    max-width: 200px;
-  }
+body .wrapper .hero .header img {
+  max-width: 100px;
+  width: 100%;
+  height: auto;
 }
 
 body .wrapper .hero .banner {
@@ -230,23 +229,11 @@ body .wrapper .content .main-list li {
   line-height: 33px;
   padding-left: 70px;
   margin-bottom: 24px;
-  padding: 10px 0 10px 70px;
+  padding: 10px 0 10px 0px;
 }
 
 body .wrapper .content .main-list li:last-child {
   margin-bottom: 0;
-}
-
-body .wrapper .content .main-list li.item-1 {
-  background: url("../images/altour-icon-1.jpg") no-repeat left center;
-}
-
-body .wrapper .content .main-list li.item-2 {
-  background: url("../images/altour-icon-2.jpg") no-repeat left center;
-}
-
-body .wrapper .content .main-list li.item-3 {
-  background: url("../images/altour-icon-3.jpg") no-repeat left top;
 }
 
 body .wrapper .content .main-list li span {
@@ -255,16 +242,13 @@ body .wrapper .content .main-list li span {
 
 @media screen and (max-width: 767px) {
   body .wrapper .content .main-list li {
-    padding: 70px 0 10px 0px;
+    padding: 0px 0 10px 0px;
     text-align: center;
   }
   body .wrapper .content .main-list li span {
     display: block;
     font-size: 22px;
     line-height: 24px;
-  }
-  body .wrapper .content .main-list li.item-1, body .wrapper .content .main-list li.item-2, body .wrapper .content .main-list li.item-3 {
-    background-position: center top;
   }
 }
 
@@ -310,16 +294,17 @@ body .wrapper .content .main-list li .inner-list li::before {
 
 @media screen and (max-width: 767px) {
   body .wrapper .content .main-list li .inner-list li {
-    margin: 0 0 10px 0px;
+    margin: 0 auto 10px auto;
     padding: 0;
     font-size: 22px;
     line-height: 24px;
+    width: 80%;
   }
 }
 
 @media screen and (max-width: 767px) {
   body .wrapper .content .main-list li .inner-list li:last-child {
-    margin: 0;
+    margin: 0 auto 10px auto;
   }
 }
 
@@ -339,14 +324,14 @@ body .wrapper .content p {
 }
 
 body .wrapper .footer {
-  color: #ffffff;
-  background-color: #00175a;
-  padding: 91px 46px;
+  color: #000000;
+  background-color: #ffffff;
+  padding: 0px 46px 91px;
 }
 
 @media screen and (max-width: 767px) {
   body .wrapper .footer {
-    padding: 50px 20px;
+    padding: 50px 20px 50px;
   }
 }
 
@@ -359,6 +344,7 @@ body .wrapper .footer h2 {
   max-width: 680px;
   margin: 0 auto 106px auto;
   width: 100%;
+  color: #00175a;
 }
 
 @media screen and (max-width: 767px) {
@@ -381,5 +367,9 @@ body .wrapper .footer p {
     font-size: 16px;
     line-height: 20px;
   }
+}
+
+body .wrapper .footer p span {
+  font-family: "BentonSansBold";
 }
 /*# sourceMappingURL=styles.css.map */

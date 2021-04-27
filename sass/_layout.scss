@@ -9,14 +9,13 @@ body {
         .hero {
             .header {
                 padding: 30px 50px;
+                @media screen and (max-width: 767px) {
+                    padding: 20px;
+                }
                 img {
-                    max-width: 245px;
+                    max-width: 100px;
                     width: 100%;
                     height: auto;
-                    @media screen and (max-width: 767px) {
-                        margin: 0 auto;
-                        max-width: 200px;
-                    }
                 }
             }
             .banner {
@@ -83,34 +82,20 @@ body {
                     line-height: 33px;
                     padding-left: 70px;
                     margin-bottom: 24px;
-                    padding: 10px 0 10px 70px;
+                    padding: 10px 0 10px 0px;
                     &:last-child {
                         margin-bottom: 0;
-                    }
-                    &.item-1 {
-                        background: url("../images/altour-icon-1.jpg") no-repeat left center;
-                    }
-                    &.item-2 {
-                        background: url("../images/altour-icon-2.jpg") no-repeat left center;
-                    }
-                    &.item-3 {
-                        background: url("../images/altour-icon-3.jpg") no-repeat left top;
                     }
                     span {
                         font-family: "BentonSansRegular";
                     }
                     @media screen and (max-width: 767px) {
-                        padding: 70px 0 10px 0px;
+                        padding: 0px 0 10px 0px;
                         text-align: center;
                         span {
                             display: block;
                             font-size: 22px;
                             line-height: 24px;
-                        }
-                        &.item-1,
-                        &.item-2,
-                        &.item-3 {
-                            background-position: center top;
                         }
                     }
                     @media screen and (max-width: 414px) {
@@ -140,14 +125,15 @@ body {
                                 }
                             }
                             @media screen and (max-width: 767px) {
-                                margin: 0 0 10px 0px;
+                                margin: 0 auto 10px auto;
                                 padding: 0;
                                 font-size: 22px;
                                 line-height: 24px;
+                                width: 80%;
                             }
                             &:last-child {
                                 @media screen and (max-width: 767px) {
-                                    margin: 0;
+                                    margin: 0 auto 10px auto;
                                 }
                             }
                         }
@@ -167,11 +153,11 @@ body {
             }
         }
         .footer {
-            color: #ffffff;
-            background-color: #00175a;
-            padding: 91px 46px;
+            color: #000000;
+            background-color: #ffffff;
+            padding: 0px 46px 91px;
             @media screen and (max-width: 767px) {
-                padding: 50px 20px;
+                padding: 50px 20px 50px;
             }
             h2 {
                 font-size: 48px;
@@ -182,6 +168,7 @@ body {
                 max-width: 680px;
                 margin: 0 auto 106px auto;
                 width: 100%;
+                color: #00175a;
                 @media screen and (max-width: 767px) {
                     font-size: 30px;
                     line-height: 32px;
@@ -196,6 +183,9 @@ body {
                 @media screen and (max-width: 414px) {
                     font-size: 16px;
                     line-height: 20px;
+                }
+                span {
+                    font-family: "BentonSansBold";
                 }
             }
         }
