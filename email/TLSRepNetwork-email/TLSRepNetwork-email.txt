@@ -1,0 +1,60 @@
+%%=ContentAreaByName("shared items\shared contents\Templates\2018_Standard\Consumer\HTML_cons_header")=%%
+
+Agency ABC
+Official Travel Representative
+ 	
+American Express
+Exclusive Card Member Offer
+
+--------------
+
+GET UP TO $300 ONBOARD CREDIT!
+Book that getaway you’ve been waiting for on Celebrity and receive an exclusive offer as an American Express® Card Member! When you book any eligible Celebrity Cruise between April 12 – May 12, 2021 and pay with your American Express® Card, you can get up to $300 in onboard credit, per stateroom!
+
+--------------
+
+3-5 Nights
+Get
+$50
+Per Person
+
+6-8 Nights
+Get
+$100
+Per Person
+
+9 Nights Plus
+Get
+$150
+Per Person
+
+--------------
+
+Book with [XYZ] Agency
+at [XXX-XXX-XXXX]
+
+--------------
+
+Offer Terms:
+Offer valid when you pay with an American Express Card and book through American Express Travel, online at AmexTravel.com or through an American Express Travel Representative. Valid for new individual bookings and to staterooms in non-contracted group bookings, including American Express HQ Groups, booked through American Express Owned Channel, American Express Online & American Express Representative Network between April 12, 2021 – May 12, 2021. For travel on all open deployment that are 3+ nights or longer (excluding Galapagos itineraries). U.S. & Canadian bookings only. Offer based on availability. Onboard Credit “OBC” amount varies by length of sailing for the 1st & 2nd guests only: $50 per person for 3-5 night sailings, $100 per person for 6-8 night sailings and $150 per person for 9 night or longer sailings for any category booked. Single passengers, when paying 200% single passenger supplement, will be entitled to double OBC. The offer is combinable with Cruise Privileges Program or Gold Card Destinations and (1) other offer as long as the booking meets the requirements for both offers. Onboard credit has no cash value, not redeemable for cash and will expire if not used by 10:00 PM on the final night of the cruise. Bookings may be transferred into non-contracted groups. Cruise portion of cruisetours are eligible for offers. Celebrity reserves the right to correct any errors, inaccuracies or omissions. ©2021 Celebrity Cruises. Ships’ registry: Malta and Ecuador.
+
+American Express Travel Related Services Company, Inc. is acting solely as a sales agent for travel suppliers and is not responsible for the actions or inactions of such suppliers. Certain suppliers pay us commission and other incentives for reaching sales targets or other goals and may provide incentives to our travel consultants. For more information visit www.americanexpress.com/travelterms.
+California CST#1022318; Washington UBI#600-469-694
+
+If you no longer wish to receive promotional emails like this, please unsubscribe below.
+
+--------------
+
+
+%%=ContentAreaByName("shared items\shared contents\Templates\2018_Standard\Consumer\HTML_cons_footer")=%%
+
+
+%%=ContentAreaByName("shared items\shared contents\Templates\2018_Standard\HTML_disclosure")=%%
+
+--------------
+
+*Terms and Conditions
+
+Offer valid when you pay with any American Express® Credit or Charge Card. Fulfillment of the offer is the sole responsibility of the participating American Express merchant. Dollars off applies to the Base Rate which are the time and mileage charges only, on a minimum base time and mileage spend of $175 or more. This offer is based on the currency of the location of check-out and subject to applicable exchange rates. Not valid on Select Series vehicles (group X). All taxes, fees (including but not limited to Air Conditioning Excise Recovery Fee, Concession Recovery Fee, Vehicle License Recovery Fee, Energy Recovery Fee, Tire Management Fee, and Frequent Traveler Fee) and surcharges (including but not limited to Customer Facility Charge and Environmental Fee Recovery Charge) are extra. Optional products such as LDW and refueling are extra. One coupon per rental. May not be used in conjunction with any other coupon, promotion or offer. Offer not valid on previously completed rentals. Blackout dates may apply; see location for details. An advance reservation is required. Coupon cannot be transferred, sold, or redeemed for cash and we reserve the right to change terms anytime at our sole discretion. Coupon valid at participating Avis locations in the contiguous U.S., Canada, U.S. Virgin Islands and Puerto Rico. Offer subject to vehicle availability at the time of reservation and may not be available on some rates at some times. Offer is applicable to group rates but not corporate and convention rates. Dollars off coupons presented/entered during reservation are calculated at time of reservation. Renter must meet Avis age, driver and credit requirements. Minimum age may vary by location. An additional daily surcharge may apply for renters under 25 years old. Offer valid when you book online or call 1-800-230-4845 between 11/1/2019 and 1/31/2020. Rental must begin by 1/31/2020. Use promotion code: Avis Worldwide Discount (AWD) # B660700 and coupon # MUEA003 when booking online or over the phone. Please note that hotels, car rental companies, cruise lines do not accept prepaid cards for charges authorized in advance, although prepaid cards may be used to settle the final bill. Check to make sure prepaid cards are accepted before attempting to use your American Express Serve or Bluebird Card to take advantage of this offer. POID: GE88:0001
+
+%%=ContentAreaByName("shared items\shared contents\Templates\2018_Standard\HTML_physical_address_copyright")=%%

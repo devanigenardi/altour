@@ -324,9 +324,9 @@ body .wrapper .content p {
 }
 
 body .wrapper .footer {
-  color: #000000;
-  background-color: #ffffff;
-  padding: 0px 46px 91px;
+  color: #ffffff;
+  background-color: #00175a;
+  padding: 91px 46px 91px;
 }
 
 @media screen and (max-width: 767px) {
@@ -344,7 +344,6 @@ body .wrapper .footer h2 {
   max-width: 680px;
   margin: 0 auto 106px auto;
   width: 100%;
-  color: #00175a;
 }
 
 @media screen and (max-width: 767px) {
